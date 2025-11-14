@@ -1,13 +1,16 @@
 This repository contains Data, Proposal, Report, and Presentation folders, which contain their respective information:
 
-Data: Contains all raw and standardized data used for the analysis.
+**Data**: Contains all raw and standardized data used for the analysis.
+    
     - Survey Data Source: https://hai.stanford.edu/ai-index/2025-ai-index-report
 
-Proposal: Contains the written proposal for this project.
+**Proposal**: Contains the written proposal for this project.
 
-Project: Final report and reproducible code.
+**Project**: Final report and reproducible code.
+    
     - Report_Salama.rmd: The file containing all R code and text for data processing and generating the final report.
     - Report_Salama.nb.html: The final compiled report document.
 
-Presentation: Materials for the project presentation.
-    - Presentation_Salama.pptx: Final presentation slides.
+**Presentation**: Materials for the project presentation.
+    
+    - Presentation_Salama.pptx: Final presentation slides.
