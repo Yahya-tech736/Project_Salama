@@ -16,3 +16,8 @@ This repository contains Data, Proposal, Report, and Presentation folders, which
 **Presentation**: Materials for the project presentation.
 
     - Presentation_Salama.pptx: Final presentation slides.
+
+**Replication**: The technical environment needed to reproduce my analysis.
+
+    - Software: R, RStudio
+      R Packages: tidyverse, stringr, purrr, dplyr, readr, tibble, ggplot2, maps, forcats, patchwork, ggrepel
